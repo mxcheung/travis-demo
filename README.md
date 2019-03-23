@@ -1,5 +1,7 @@
 # TravisDemo
 
+[![travis](https://travis-ci.org/mxcheung/simplecab.svg?branch=master)](https://travis-ci.org/mxcheung/simplecab?branch=master)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
 
 ## Development server
@@ -28,3 +30,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 [The Angular DevOps Series: CT/CI with Travis CI and GitHub Pages](https://blog.angularindepth.com/the-angular-devops-series-ct-ci-with-travis-ci-and-github-pages-3c02664f078)
+
+[Travis CI and GitHub Pages](https://mxcheung.github.io/travis-demo/)
